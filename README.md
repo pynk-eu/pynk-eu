@@ -1,16 +1,20 @@
-### Hi there 👋
+## Basic Intro
+- Name: Priyanka Gupta,
+- Education: Bachelor of Commerce(Hons),
+-  [Linkedin](http://www.linkedin.com/in/pynk)
+# SKILLS
+### Programs
+-  Tally
+-  ERP
+-  MS-Excel
+-  MS-Powerpoint
 
-<!--
-**pynk-eu/pynk-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- English
+- Hindi
+  
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+   
